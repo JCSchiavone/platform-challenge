@@ -1,7 +1,4 @@
-# Platform take home
-This is a take home project for the Platform team at Imbellus.
-
-## Specifications
+# Specifications
 In this assignment, you will implement a REST API and web UI for a small web app of your design. 
 * The API should be written in python with the packages, framework(s), tools, etc
 of your choosing.
@@ -42,11 +39,6 @@ using any web technologies from vanilla HTML5, CSS, JS, to your favorite JavaScr
 
 # Extension
 We encourage you to get creative and have fun with the assignment. Feel free to extend with more API endpoints, a feature-rich web client, a suite of unit- and end-to-end tests, CI/CD integration or more! We encourage you make the server code as robust to exceptions as possible, and treat this portion as if it were production code.
-
-# When you are finished
-Please *fork* this repo and open a pull request to this repo when you are ready to submit the work. 
-For information or questions please email your primary point of contact, or
-write to platform@imbellus.com.
 
 # License
 copyright 2018 Imbellus, Inc. All rights reserved.
